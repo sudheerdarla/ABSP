@@ -1,0 +1,53 @@
+1514210873488	geckodriver	INFO	geckodriver 0.19.1
+1514210873501	geckodriver	INFO	Listening on 127.0.0.1:49431
+1514210875561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hi\\AppData\\Local\\Temp\\rust_mozprofile.PScdsH92hcTa"
+1514210878236	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hi\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514210884864	Marionette	INFO	Listening on port 49438
+1514210885341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514210885422	Marionette	DEBUG	Register listener.js for window 4294967297
+1514211123488	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514211124195	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514211124195	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514211125475	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sudheerdarla.github.io/"
+1514211127761	Marionette	DEBUG	Received DOM event "pageshow" for "https://sudheerdarla.github.io/"
+Unable to read VR Path Registry from C:\Users\hi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518842843155	geckodriver	INFO	geckodriver 0.19.1
+1518842843186	geckodriver	INFO	Listening on 127.0.0.1:50320
+1518842845303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hi\\AppData\\Local\\Temp\\rust_mozprofile.awvUVae5eqtd"
+1518842848456	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hi\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518842853669	Marionette	INFO	Listening on port 50328
+1518842854155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518842854246	Marionette	DEBUG	Register listener.js for window 4294967297
+1518842894950	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518842895887	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518842895887	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\hi\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1518842896542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1518842897281	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1518843115359	Marionette	DEBUG	Received DOM event "beforeunload" for "http://inventwithpython.com/"
+1518843117917	Marionette	DEBUG	Received DOM event "pagehide" for "http://inventwithpython.com/"
+1518843117917	Marionette	DEBUG	Received DOM event "unload" for "http://inventwithpython.com/"
+1518843118717	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coderplex.org/"
+1518843121221	Marionette	DEBUG	Received DOM event "pageshow" for "https://coderplex.org/"
+1518843174679	Marionette	DEBUG	Received DOM event "beforeunload" for "https://coderplex.org/"
+1518843174707	Marionette	DEBUG	Received DOM event "pagehide" for "https://coderplex.org/"
+1518843174707	Marionette	DEBUG	Received DOM event "unload" for "https://coderplex.org/"
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1518843174843	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1518843174995	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+[Parent 620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
