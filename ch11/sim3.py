@@ -1,11 +1,11 @@
 #! python3
 # sim3.py - Open the result links to photos after performing a search
-# on a photo site sucha as Flickr or Imgur
+# on a photo site such as Flickr or Imgur
 
 import requests, sys, webbrowser, bs4
 
 print('Searching Imgur..')
-res = requests.get('''https://imgur.com/search?q=''' + sys.argv[1])
+res = requests.get('https://imgur.com/search?q=' + sys.argv[1])
 res.raise_for_status()
 
 # # Retrieve top search result links.
