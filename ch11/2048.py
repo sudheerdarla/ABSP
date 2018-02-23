@@ -1,5 +1,5 @@
 #! python3
-# 2048.py will go to the 2048 game website and play the automatically with 
+# 2048.py will go to the 2048 game website and play the automatically with
 ## up,right,left and down arrows given by selenium Keys module
 
 from selenium import webdriver
